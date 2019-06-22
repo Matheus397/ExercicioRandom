@@ -1,0 +1,11 @@
+C:\Users\Treinamento 1\Documents\AplicacaoSabaado\AplicacaoSabaado\bin\Debug\netcoreapp2.2\AplicacaoSabaado.deps.json
+C:\Users\Treinamento 1\Documents\AplicacaoSabaado\AplicacaoSabaado\bin\Debug\netcoreapp2.2\AplicacaoSabaado.runtimeconfig.json
+C:\Users\Treinamento 1\Documents\AplicacaoSabaado\AplicacaoSabaado\bin\Debug\netcoreapp2.2\AplicacaoSabaado.runtimeconfig.dev.json
+C:\Users\Treinamento 1\Documents\AplicacaoSabaado\AplicacaoSabaado\bin\Debug\netcoreapp2.2\AplicacaoSabaado.dll
+C:\Users\Treinamento 1\Documents\AplicacaoSabaado\AplicacaoSabaado\bin\Debug\netcoreapp2.2\AplicacaoSabaado.pdb
+C:\Users\Treinamento 1\Documents\AplicacaoSabaado\AplicacaoSabaado\obj\Debug\netcoreapp2.2\AplicacaoSabaado.csprojAssemblyReference.cache
+C:\Users\Treinamento 1\Documents\AplicacaoSabaado\AplicacaoSabaado\obj\Debug\netcoreapp2.2\AplicacaoSabaado.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 1\Documents\AplicacaoSabaado\AplicacaoSabaado\obj\Debug\netcoreapp2.2\AplicacaoSabaado.AssemblyInfoInputs.cache
+C:\Users\Treinamento 1\Documents\AplicacaoSabaado\AplicacaoSabaado\obj\Debug\netcoreapp2.2\AplicacaoSabaado.AssemblyInfo.cs
+C:\Users\Treinamento 1\Documents\AplicacaoSabaado\AplicacaoSabaado\obj\Debug\netcoreapp2.2\AplicacaoSabaado.dll
+C:\Users\Treinamento 1\Documents\AplicacaoSabaado\AplicacaoSabaado\obj\Debug\netcoreapp2.2\AplicacaoSabaado.pdb
