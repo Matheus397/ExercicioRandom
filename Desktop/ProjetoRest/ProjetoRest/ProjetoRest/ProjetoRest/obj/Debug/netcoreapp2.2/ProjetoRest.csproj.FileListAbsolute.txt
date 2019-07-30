@@ -1,0 +1,14 @@
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\bin\Debug\netcoreapp2.2\ProjetoRest.deps.json
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\bin\Debug\netcoreapp2.2\ProjetoRest.runtimeconfig.json
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\bin\Debug\netcoreapp2.2\ProjetoRest.runtimeconfig.dev.json
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\bin\Debug\netcoreapp2.2\ProjetoRest.dll
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\bin\Debug\netcoreapp2.2\ProjetoRest.pdb
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\obj\Debug\netcoreapp2.2\ProjetoRest.csprojAssemblyReference.cache
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\obj\Debug\netcoreapp2.2\ProjetoRest.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\obj\Debug\netcoreapp2.2\ProjetoRest.RazorAssemblyInfo.cache
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\obj\Debug\netcoreapp2.2\ProjetoRest.RazorAssemblyInfo.cs
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\obj\Debug\netcoreapp2.2\ProjetoRest.AssemblyInfoInputs.cache
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\obj\Debug\netcoreapp2.2\ProjetoRest.AssemblyInfo.cs
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\obj\Debug\netcoreapp2.2\ProjetoRest.RazorTargetAssemblyInfo.cache
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\obj\Debug\netcoreapp2.2\ProjetoRest.dll
+C:\Users\Treinamento 1\Desktop\ProjetoRest\ProjetoRest\ProjetoRest\ProjetoRest\obj\Debug\netcoreapp2.2\ProjetoRest.pdb
